@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<coverage version="1.0" date="2025-03-28_14-16-20" tag="">
+  <assembly name="Assembly-CSharp">
+    <class name="Cell" coveredlines="21" coverablelines="21" totallines="43" coveredbranches="0" totalbranches="0" />
+    <class name="CellTests" coveredlines="14" coverablelines="14" totallines="83" coveredbranches="0" totalbranches="0" />
+    <class name="CellView" coveredlines="9" coverablelines="12" totallines="30" coveredbranches="0" totalbranches="0" />
+    <class name="CellViewTests" coveredlines="10" coverablelines="10" totallines="83" coveredbranches="0" totalbranches="0" />
+    <class name="GameField" coveredlines="32" coverablelines="44" totallines="74" coveredbranches="0" totalbranches="0" />
+    <class name="GameFieldTests" coveredlines="13" coverablelines="15" totallines="83" coveredbranches="0" totalbranches="0" />
+  </assembly>
+</coverage>

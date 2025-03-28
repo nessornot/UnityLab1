@@ -1,0 +1,29 @@
+{
+  "summary": {
+    "generatedon": "2025-03-28T11:53:33Z",
+    "parser": "MultiReportParser (4x OpenCoverParser)",
+    "assemblies": 1,
+    "classes": 6,
+    "files": 7,
+    "coveredlines": 241,
+    "uncoveredlines": 10,
+    "coverablelines": 251,
+    "totallines": 339,
+    "linecoverage": 96,
+    "coveredbranches": 0,
+    "totalbranches": 0,
+    "coveredmethods": 44,
+    "totalmethods": 44,
+    "methodcoverage": 100
+ },
+  "coverage": {
+    "assemblies": [
+      { "name": "Assembly-CSharp", "classes": 6, "coverage": 96, "coveredlines": 241, "coverablelines": 251, "totallines": 339, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 100, "coveredmethods": 44, "totalmethods": 44, "classesinassembly": [
+        { "name": "Cell", "coverage": 100, "coveredlines": 21, "coverablelines": 21, "totallines": 43, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 100, "coveredmethods": 5, "totalmethods": 5 },
+        { "name": "CellTests", "coverage": 100, "coveredlines": 50, "coverablelines": 50, "totallines": 66, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 100, "coveredmethods": 7, "totalmethods": 7 },
+        { "name": "CellView", "coverage": 90, "coveredlines": 18, "coverablelines": 20, "totallines": 28, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 100, "coveredmethods": 6, "totalmethods": 6 },
+        { "name": "CellViewTests", "coverage": 100, "coveredlines": 44, "coverablelines": 44, "totallines": 61, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 100, "coveredmethods": 6, "totalmethods": 6 },
+        { "name": "GameField", "coverage": 93.3, "coveredlines": 56, "coverablelines": 60, "totallines": 68, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 100, "coveredmethods": 11, "totalmethods": 11 },
+        { "name": "GameFieldTests", "coverage": 92.8, "coveredlines": 52, "coverablelines": 56, "totallines": 73, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 100, "coveredmethods": 9, "totalmethods": 9 } ] } ]
+  }
+}
